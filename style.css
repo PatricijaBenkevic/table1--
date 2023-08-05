@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Noto+Sans+Vithkuqi:wght@500&family=Noto+Serif+Vithkuqi:wght@600&family=Playfair+Display:ital@1&display=swap');
+
+table {
+    margin: 50px auto;
+    border: 3px solid #ffffff;
+    border-collapse: collapse;
+    font-family: lato;
+    width: 700px;
+}
+
+td,th {
+    border: 1px solid #ffffff;
+    padding: 20px;
+    
+}
+
+.pink {
+    background:#f37ecf;
+    color: #fcfcfd;
+    font-weight: 800;
+}
+
+.violet {
+    background: #af5593;
+    color: #fcfcfd;
+    font-weight: 800;}
+
+thead {
+    background: 
+    #86006f;
+    text-align: left;
+}
+
+.purple {
+    background:#86006f;
+    color: #fcfcfd;
+    font-weight: 900;
+}
